@@ -1,0 +1,17 @@
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Infra.IoC.deps.json
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Infra.IoC.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/ref/MicroRabbit.Infra.IoC.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Infra.IoC.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.AssemblyInfo.cs
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/ref/MicroRabbit.Infra.IoC.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Infra.Bus.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Domain.Core.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Infra.Bus.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.csproj.CopyComplete
