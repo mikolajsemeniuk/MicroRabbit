@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "NxThOm8fQiRu0yFrBlsX1QkQq37b5yiwTvmOMg/KSRNbx8D5LpUTxtjNcZmLFoCZ1SsSG0qq+L88tDRLF1rLVQ==",
+  "dgSpecHash": "gx7J3SBJWWeIygUmORrWAFYpgI6SqYgpN21WOmwImltrOH3SNcXrnhWAsd7wTc98EfqbCKyiJ4sq3V+yEj6Ozg==",
   "success": true,
   "projectFilePath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mikolajsemeniuk/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/mikolajsemeniuk/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/mikolajsemeniuk/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/Users/mikolajsemeniuk/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/mikolajsemeniuk/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
