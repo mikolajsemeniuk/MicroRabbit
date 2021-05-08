@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s3P2E6AKu2qHSJWeqivZCd4NdoeAnAvnSUE2XyUg716uPGT0bUuUYZ3myPZRgeu6YJ2IBT4NMiFJkl3lrN0k8w==",
+  "dgSpecHash": "Y0uHClrT2Hym28R6RYwdToABKuiGCg5Vn50ilOyomWc8fjRk1lZnpULljnJNc7yLC1uvf/c2yIfVwHVRtcV5bQ==",
   "success": true,
   "projectFilePath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mikolajsemeniuk/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

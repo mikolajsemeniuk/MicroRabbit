@@ -1,0 +1,12 @@
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/bin/Debug/net5.0/MicroRabbit.Domain.Core.deps.json
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/bin/Debug/net5.0/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/bin/Debug/net5.0/ref/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/bin/Debug/net5.0/MicroRabbit.Domain.Core.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/MicroRabbit.Domain.Core.csprojAssemblyReference.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/MicroRabbit.Domain.Core.AssemblyInfo.cs
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/ref/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/Debug/net5.0/MicroRabbit.Domain.Core.pdb
