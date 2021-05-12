@@ -15,3 +15,9 @@
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Domain.Core.pdb
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Infra.Bus.pdb
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net5.0/MicroRabbit.Infra.IoC.csproj.CopyComplete
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Banking.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Banking.Data.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Banking.Domain.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Banking.Application.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Banking.Data.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net5.0/MicroRabbit.Banking.Domain.pdb

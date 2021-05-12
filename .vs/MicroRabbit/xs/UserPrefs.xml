@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2C65E575-7EF6-4BFD-B9E9-80F28245B4E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Microservices/Banking/Api/MicroRabbit.Banking.Api/Program.cs">
+    <Files>
+      <File FileName="Microservices/Banking/Data/MicroRabbit.Banking.Data/Context/BankingDbContext.cs" Line="9" Column="10" />
+      <File FileName="Microservices/Banking/Api/MicroRabbit.Banking.Api/Program.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroRabbit" expanded="True">
+            <Node name="Microservices" expanded="True">
+              <Node name="Banking" expanded="True">
+                <Node name="Api" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Api.MicroRabbit.Banking.Api PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

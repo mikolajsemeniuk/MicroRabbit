@@ -1,0 +1,15 @@
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net5.0/MicroRabbit.Banking.Application.deps.json
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net5.0/MicroRabbit.Banking.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net5.0/ref/MicroRabbit.Banking.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net5.0/MicroRabbit.Banking.Application.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.csprojAssemblyReference.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.AssemblyInfo.cs
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/ref/MicroRabbit.Banking.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net5.0/MicroRabbit.Banking.Domain.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/bin/Debug/net5.0/MicroRabbit.Banking.Domain.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Application/MicroRabbit.Banking.Application/obj/Debug/net5.0/MicroRabbit.Banking.Application.csproj.CopyComplete

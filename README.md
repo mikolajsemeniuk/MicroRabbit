@@ -21,7 +21,46 @@ dotnet add Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj referenc
 dotnet new classlib -o Infra.IoC/MicroRabbit.Infra.IoC &&
 dotnet sln MicroRabbit.sln add Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj &&
 dotnet add Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj reference Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj &&
-dotnet add Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj reference Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj
+dotnet add Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj reference Infra.Bus/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj &&
 
-dotnet build MicroRabbit.sln 
+dotnet new webapi -o Microservices/Banking/Api/MicroRabbit.Banking.Api &&
+dotnet sln MicroRabbit.sln add Microservices/Banking/Api/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj &&
+
+dotnet new classlib -o Microservices/Banking/Application/MicroRabbit.Banking.Application &&
+dotnet sln MicroRabbit.sln add Microservices/Banking/Application/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj && 
+
+dotnet new classlib -o Microservices/Banking/Domain/MicroRabbit.Banking.Domain &&
+dotnet sln MicroRabbit.sln add Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj &&
+
+dotnet new classlib -o Microservices/Banking/Data/MicroRabbit.Banking.Data &&
+dotnet sln MicroRabbit.sln add Microservices/Banking/Data/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj &&
+
+dotnet add Microservices/Banking/Data/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj reference Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj &&
+
+dotnet add Microservices/Banking/Application/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj reference Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj &&
+
+dotnet add Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj reference Microservices/Banking/Application/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj &&
+
+dotnet add Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj reference Microservices/Banking/Data/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj &&
+
+dotnet add Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj reference Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj
+
+dotnet ef migrations add InitialCreate \
+    -c BankingDbContext \
+    -p Microservices/Banking/Data/MicroRabbit.Banking.Data \
+    -s Microservices/Banking/Api/MicroRabbit.Banking.Api
+
+dotnet ef database update \
+    -c BankingDbContext \
+    -p Microservices/Banking/Data/Microrabbit.Banking.Data \
+    -s Microservices/Banking/Api/MicroRabbit.Banking.Api
+
+dotnet ef database drop \
+    -c BankingDbContext \
+    -p Microservices/Banking/Data/Microrabbit.Banking.Data \
+    -s Microservices/Banking/Api/MicroRabbit.Banking.Api
+
+dotnet build MicroRabbit.sln
+
+dotnet run -p Microservices/Banking/Api/MicroRabbit.Banking.Api
 ```
