@@ -16,3 +16,5 @@
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net5.0/ref/MicroRabbit.Banking.Data.dll
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net5.0/MicroRabbit.Banking.Data.pdb
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/obj/Debug/net5.0/MicroRabbit.Banking.Data.genruntimeconfig.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net5.0/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/bin/Debug/net5.0/MicroRabbit.Domain.Core.pdb

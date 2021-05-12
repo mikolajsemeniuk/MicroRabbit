@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tMS43bDvpIiSJ7fEY5eSusHt10S8GDi0XRPFX4jsi57XOFTSk3+SnkqdB3YWk76S6IdLFrB2SH8j7QVx/fLWxQ==",
+  "dgSpecHash": "PxSsWTjjHClbOF10J9jRGbatwQ0KsDVtZpcQSWX2hNQmO5PtI/+aS3meuUDQsgvkIelYr6U9EYSRmZ+ZggWpNw==",
   "success": true,
   "projectFilePath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj",
   "expectedPackageFiles": [

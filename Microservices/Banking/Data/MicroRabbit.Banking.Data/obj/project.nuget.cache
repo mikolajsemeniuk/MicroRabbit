@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IWm4+CBg46kTCwxJfBrYP8GpSOu86MzTwQcH1R6LZwRS//rZGO6hHm0hIKypIU3gAF6eNQP8pxjaTidzBESgQg==",
+  "dgSpecHash": "qTIfDTiVvg0L5WYZB4sGJk2gvuVwJSduyMS7Ox+YITnoL1ZOjJWgvAxD231L3mMWUXN2RcmCjU/H2mcTUzrZaA==",
   "success": true,
   "projectFilePath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
     "/Users/mikolajsemeniuk/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/mikolajsemeniuk/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/mikolajsemeniuk/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/mikolajsemeniuk/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "/Users/mikolajsemeniuk/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.0.1/microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

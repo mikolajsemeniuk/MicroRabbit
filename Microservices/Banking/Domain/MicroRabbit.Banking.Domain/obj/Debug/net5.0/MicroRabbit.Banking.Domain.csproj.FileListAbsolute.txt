@@ -10,3 +10,6 @@
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net5.0/MicroRabbit.Banking.Domain.dll
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net5.0/ref/MicroRabbit.Banking.Domain.dll
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net5.0/MicroRabbit.Banking.Domain.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/bin/Debug/net5.0/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/bin/Debug/net5.0/MicroRabbit.Domain.Core.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Domain/MicroRabbit.Banking.Domain/obj/Debug/net5.0/MicroRabbit.Banking.Domain.csproj.CopyComplete

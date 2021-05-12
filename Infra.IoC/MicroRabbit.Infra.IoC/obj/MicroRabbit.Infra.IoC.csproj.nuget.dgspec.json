@@ -357,7 +357,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -369,6 +373,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

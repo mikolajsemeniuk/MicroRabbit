@@ -4,6 +4,64 @@
     "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj": {}
   },
   "projects": {
+    "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "projectName": "MicroRabbit.Domain.Core",
+        "projectPath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "/Users/mikolajsemeniuk/.nuget/packages/",
+        "outputPath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mikolajsemeniuk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Data/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -99,7 +157,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -111,6 +173,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

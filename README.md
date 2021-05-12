@@ -60,6 +60,8 @@ dotnet ef database drop \
     -p Microservices/Banking/Data/Microrabbit.Banking.Data \
     -s Microservices/Banking/Api/MicroRabbit.Banking.Api
 
+dotnet add Microservices/Banking/Domain/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj reference Domain/MicroRabbit.Domain.Core
+
 dotnet build MicroRabbit.sln
 
 dotnet run -p Microservices/Banking/Api/MicroRabbit.Banking.Api
