@@ -1,0 +1,17 @@
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/MicroRabbit.Transfer.Application.deps.json
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/MicroRabbit.Transfer.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/ref/MicroRabbit.Transfer.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/MicroRabbit.Transfer.Application.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.AssemblyInfo.cs
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/ref/MicroRabbit.Transfer.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/MicroRabbit.Domain.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/MicroRabbit.Transfer.Domain.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/MicroRabbit.Transfer.Domain.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/bin/Debug/net5.0/MicroRabbit.Domain.Core.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/obj/Debug/net5.0/MicroRabbit.Transfer.Application.csproj.CopyComplete

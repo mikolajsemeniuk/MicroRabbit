@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cfS0qVnzInzjSLeYD10ThypwyHuwG73grNa94EntXIx6W3SC/H45U06tDIr6k+MGV+sjKHNuEIFE2t5g6Y3pMg==",
+  "dgSpecHash": "0LzZjkAuKZ8/xCq1MsncpGOTMTy+usFlZ3T7PHyxS3onpG/0pOiYY4yS1321XDC9FGHlL0hzKO0NY5qR9xEe0w==",
   "success": true,
   "projectFilePath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [

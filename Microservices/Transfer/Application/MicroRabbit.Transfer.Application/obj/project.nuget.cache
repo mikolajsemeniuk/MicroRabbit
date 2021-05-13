@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1ssRxC4jmq4Q8xxXwmv4zz2UQt6smpyVDkh2eJoetfYwLcGzZlHZlkOXBUh//0xnCGZ5R7HVdoa6kKknSdmz1Q==",
+  "dgSpecHash": "cZ28PTv3blRlAUuuxVsGeSjGleDa8Uz220ilaJf1csztUelXumuIcU47LXbh9nWt4HM6yXoMpwP/2UfEsk7dRg==",
   "success": true,
   "projectFilePath": "/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Transfer/Application/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mikolajsemeniuk/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

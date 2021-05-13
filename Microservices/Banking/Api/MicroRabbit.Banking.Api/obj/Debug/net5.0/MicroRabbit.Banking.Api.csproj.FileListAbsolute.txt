@@ -73,3 +73,9 @@
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Domain.Core.pdb
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Infra.Bus.pdb
 /Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Transfer.Application.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Transfer.Data.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Transfer.Domain.dll
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Transfer.Application.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Transfer.Data.pdb
+/Users/mikolajsemeniuk/Projects/C#/MicroRabbit/Microservices/Banking/Api/MicroRabbit.Banking.Api/bin/Debug/net5.0/MicroRabbit.Transfer.Domain.pdb
